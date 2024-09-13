@@ -1,0 +1,6 @@
+[submodule "lib/OpenMower"]
+	path = lib/OpenMower
+	url = https://github.com/ClemensElflein/OpenMower.git
+[submodule "lib/Open_Mower_Ros"]
+	path = lib/Open_Mower_Ros
+	url = https://github.com/ClemensElflein/open_mower_ros.git
