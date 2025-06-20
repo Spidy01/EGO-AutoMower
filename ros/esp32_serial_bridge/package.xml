@@ -1,0 +1,11 @@
+<package format="2">
+  <name>esp32_serial_bridge</name>
+  <version>0.1.0</version>
+  <description>Serial bridge for ESP32 C6 mower hardware.</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>pyserial</exec_depend>
+</package>
