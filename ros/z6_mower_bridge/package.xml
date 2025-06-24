@@ -1,0 +1,12 @@
+<package format="2">
+  <name>z6_mower_bridge</name>
+  <version>0.1.0</version>
+  <description>Translation layer between open_mower_ros and Z6 mower RS485 bus.</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>std_srvs</exec_depend>
+</package>
